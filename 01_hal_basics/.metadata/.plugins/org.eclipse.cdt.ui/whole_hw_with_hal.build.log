@@ -1,0 +1,10 @@
+09:27:30 **** Incremental Build of configuration Debug for project whole_hw_with_hal ****
+make -j8 all 
+arm-none-eabi-size  whole_hw_with_hal.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16756	     96	   3144	  19996	   4e1c	whole_hw_with_hal.elf
+Finished building: default.size.stdout
+ 
+
+09:27:30 Build Finished. 0 errors, 0 warnings. (took 274ms)
+
